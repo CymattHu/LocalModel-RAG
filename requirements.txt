@@ -1,0 +1,10 @@
+ollama
+gradio
+langchain
+faiss-cpu
+huggingface-hub
+langchain-community
+pypdf
+cryptography>=3.1
+sentence-transformers
+langchain-huggingface
