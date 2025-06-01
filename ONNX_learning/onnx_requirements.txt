@@ -1,0 +1,6 @@
+onnxsim
+torchvision
+onnxruntime
+safetensors
+accelerate
+onnxoptimizer
